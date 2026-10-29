@@ -1,4 +1,4 @@
-# Loyalty Analytics — CRVM Prototype
+# Loyalty Analytics
 
 A synthetic customer analytics prototype exploring how loyalty data can be transformed into **customer segmentation, targeted actions and loyalty investment decisions**.
 
